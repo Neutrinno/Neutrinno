@@ -62,11 +62,3 @@ Constantly exploring new tools and methods, I aim to optimize processes, improve
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/GigaChat-10B981?style=for-the-badge&logo=python&logoColor=white" />
 </div>
-
----
-
-## 📊 GitHub Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=tokyonight" />
-</div>
