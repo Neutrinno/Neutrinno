@@ -9,10 +9,17 @@
 ---
 
 ## 🚀 About Me
-I am a researcher and developer with experience in AI, machine learning, and backend systems.  
-My work spans classical ML, neural networks, RAG-models, and high-performance microservices.  
-I focus on creating production-ready solutions that integrate research with real-world applications.  
-I constantly explore new tools and approaches to improve scalability, reliability, and efficiency.
+
+<div style="width:100%; color:#374151; font-size:16px; line-height:1.6;">
+
+I am a researcher and developer with strong experience in AI, machine learning, and backend systems. My work includes classical ML, neural networks, RAG-models, and high-performance microservices.  
+
+I focus on building production-ready solutions that integrate research with real-world applications, ensuring scalability, reliability, and efficiency.  
+
+Constantly exploring new tools and methods, I aim to optimize processes, improve system performance, and deliver robust AI-driven products.  
+
+</div>
+
 
 ---
 
@@ -37,15 +44,23 @@ I constantly explore new tools and approaches to improve scalability, reliabilit
 
 ## 🔧 Tech Stack
 <div>
+  <!-- Python & ML -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-F2A900?style=for-the-badge&logo=huggingface&logoColor=white" />
+
+  <!-- Backend & Infrastructure -->
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-F2A900?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+  <!-- LLM & AI Tools -->
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6600?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GigaChat-10B981?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ---
