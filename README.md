@@ -12,7 +12,7 @@
 
 <div style="width:100%; color:#374151; font-size:16px; line-height:1.6;">
 
-I am a researcher and developer with strong experience in AI, machine learning, and backend systems. My work includes classical ML, neural networks, RAG-models, and high-performance microservices.  
+I am a researcher and developer with experience in AI, machine learning, and backend systems. My work includes classical ML, neural networks, RAG-models, and high-performance microservices.  
 
 I focus on building production-ready solutions that integrate research with real-world applications, ensuring scalability, reliability, and efficiency.  
 
