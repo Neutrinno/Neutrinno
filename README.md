@@ -37,8 +37,8 @@ Constantly exploring new tools and methods, I aim to optimize processes, improve
 ## 🏆 Achievements
 - **Winner, Ural Code 2025** — Library management system with analytics and recommendation engine implemented in 24h.  
 - **Winner, #ЛетимСоСбером** — Drone navigation algorithm operating without GPS/GLONASS.  
-- Implemented **ARIMA, LSTM, Prophet** models for time-series forecasting.  
-- Built **microservices-based web applications** with FastAPI, Redis, and PostgreSQL.  
+- Implemented **ARIMA, LSTM, Prophet** models for time-series forecasting in **AgroExchange** to automate industrial agricultural processes.  
+- Built **microservices-based web applications** with FastAPI, Redis, and PostgreSQL for **comparative analysis of the restaurant business**.
 
 ---
 
