@@ -1,7 +1,7 @@
-# 👋 Hi! I'm Xenia — ML Engineer @ Sberbank
+# Xenia — ML Engineer @ Sberbank
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+AI+Agents+%7C+ML+Solutions;Automation+%26+Data+Driven+Systems;FastAPI+%7C+Python+%7C+SQL+%7C+Kafka+%7C+Redis" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=ML+Engineer+|+FastAPI+|+Python+|+Data+Engineering;Building+AI+Agents+and+Automation+Solutions;Kafka+|+Redis+|+SQLAlchemy+|+ETL+Pipelines" />
 </p>
 
 <p align="center">
@@ -10,30 +10,26 @@
 
 ---
 
-## 🚀 What I Do
+## Professional Overview
 
-### 🤖 AI & Intelligent Agents
-- Building intelligent agents for task automation and analytics  
-- RAG systems, document understanding, multi-agent workflows  
-- Predictive and classification ML models  
-
-### ⚡ Automation & Backend
-- FastAPI microservices, Kafka & Redis pipelines  
-- Workflow orchestration, API integrations  
-- Cloud-ready backend architecture  
-
-### 📊 Data & Analytics
-- SQLAlchemy, PostgreSQL, MongoDB & ClickHouse  
-- ETL pipelines, dashboards & BI tools  
-- Predictive analytics, KPI tracking & reporting  
+Xenia is an experienced Machine Learning Engineer at Sberbank, specializing in building **AI-powered agents, automation workflows, and data-driven applications**. Her expertise spans backend development, data engineering, and designing scalable ML solutions for enterprise applications.
 
 ---
 
-## 🛠 Tech Stack
+## Core Competencies
+
+- **Machine Learning & AI:** Intelligent agents, RAG systems, predictive modeling, classification, and NLP pipelines  
+- **Backend & Automation:** FastAPI microservices, Kafka & Redis event-driven systems, workflow orchestration  
+- **Data Engineering:** PostgreSQL, SQLAlchemy, MongoDB, ETL pipelines, dashboards, and analytics solutions  
+- **Cloud & DevOps:** Docker, Kubernetes, AWS, GCP, scalable deployment  
+
+---
+
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -45,35 +41,34 @@
 
 ---
 
-## 💡 What I Can Build
+## Selected Projects & Deliverables
 
-### 🤖 AI Solutions
-- Intelligent agents & chatbots  
-- RAG & knowledge-driven systems  
-- Multi-agent AI workflows  
-- Document processing & automation  
-- Recommendation engines & sentiment analysis  
-
-### ⚡ Business Automation
-- Data pipeline automation (ETL/ELT)  
-- Workflow orchestration & API integrations  
-- Real-time analytics & report generation  
-- Scheduled task automation  
-
-### 📊 Data & Analytics
-- Interactive dashboards & BI tools  
-- Predictive analytics & KPI tracking  
-- Custom data platforms & warehouse solutions  
-
-### 🔧 Backend Development
-- RESTful APIs & microservices  
-- Cloud infrastructure setup  
-- Containerization & deployment  
-- Database design & optimization  
+- AI agents for task automation and recommendation systems  
+- Multi-agent workflows and document analysis pipelines  
+- Real-time data processing and analytics dashboards  
+- ETL/ELT data pipelines for enterprise data systems  
+- RESTful API development and microservices architecture  
 
 ---
 
-## 📬 Connect with Me
+## GitHub Contribution Visualization
+
+<p align="center">
+  ![Contribution Snake](https://raw.githubusercontent.com/fuckseer/fuckseer/output/github-contribution-grid-snake.svg)
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fuckseer&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuckseer&layout=compact&theme=radical" />
+</p>
+
+---
+
+## Contact
 
 <p align="center">
   <a href="https://linkedin.com/in/yourname">
@@ -89,21 +84,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fuckseer&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuckseer&layout=compact&theme=radical" />
-</p>
-
----
-
-## 💭 Quote of the Day
+## Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
-
----
-
-⭐ Thanks for visiting! Let's innovate and build AI-powered solutions together! 🚀
