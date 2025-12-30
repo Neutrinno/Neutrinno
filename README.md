@@ -28,9 +28,9 @@ Constantly exploring new tools and methods, I aim to optimize processes, improve
 | Area | Focus | Tools & Tech |
 |------|-------|--------------|
 | **AI & Machine Learning** | Intelligent agents, predictive models, RAG systems | Python, PyTorch, scikit-learn, HuggingFace, LangChain |
-| **Backend Development** | Microservices, API design, high-load systems | FastAPI, SQLAlchemy, Redis, Docker, Kubernetes |
+| **Backend Development** | Microservices, API design, high-load systems | FastAPI, SQLAlchemy, Redis, Docker |
 | **Data & Analytics** | ETL pipelines, dashboards, predictive analytics | PostgreSQL, ClickHouse, Pandas, NumPy, Plotly |
-| **Automation & Workflow** | Process optimization, task orchestration | Celery, Kafka, Airflow, n8n |
+| **Automation & Workflow** | Process optimization, task orchestration | Celery, Airflow, n8n |
 
 ---
 
