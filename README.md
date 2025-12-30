@@ -1,30 +1,25 @@
-<!-- Заголовок с анимацией -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=ML+Engineer+@+Sberbank;Building+AI+Agents+and+Automation;FastAPI+|+Python+|+Kafka+|+Redis" />
-</p>
+# Basargin Konstantin — ML Engineer @ Sberbank
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fuckseer&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=ML+Engineer+|+AI+Agents+|+Data+Pipelines;FastAPI+|+Python+|+Kafka+|+Redis" />
 </p>
 
 ---
 
-## Professional Overview
-
-Xenia is a Machine Learning Engineer at Sberbank, specializing in **AI-powered agents, backend systems, and data-driven solutions**. She designs scalable ML pipelines, develops automation workflows, and builds enterprise-grade AI solutions.
+## Selected Projects
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ4cY1TlSxVdo/giphy.gif" width="500" />
+  <a href="https://github.com/fuckseer/ai-agent-framework">
+    <img src="https://media.giphy.com/media/3o7TKsQ4cY1TlSxVdo/giphy.gif" width="300"/>
+  </a>
+  <a href="https://github.com/fuckseer/data-pipeline-etl">
+    <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="300"/>
+  </a>
 </p>
 
----
-
-## Core Competencies
-
-- **Machine Learning & AI**: Intelligent agents, RAG systems, predictive modeling, NLP pipelines  
-- **Backend & Automation**: FastAPI, Kafka, Redis, workflow orchestration, REST APIs  
-- **Data Engineering**: SQLAlchemy, PostgreSQL, MongoDB, ETL/ELT pipelines, dashboards  
-- **Cloud & DevOps**: Docker, Kubernetes, AWS, GCP, containerized deployments  
+<p align="center">
+Multi-agent AI workflows | Scalable ETL pipelines | FastAPI, Kafka, Redis
+</p>
 
 ---
 
@@ -39,22 +34,14 @@ Xenia is a Machine Learning Engineer at Sberbank, specializing in **AI-powered a
   <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EF3D3D?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FF6F61?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-00A6FB?style=for-the-badge" />
 </p>
 
 ---
 
-## Selected Projects & Deliverables
+## Professional Summary
 
-- AI agents for automation and recommendations  
-- Multi-agent workflows and document pipelines  
-- Real-time data processing and analytics dashboards  
-- ETL/ELT data pipelines for enterprise systems  
-- RESTful API development, microservices architecture  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="500" />
-</p>
+I am an experienced Machine Learning Engineer at Sberbank specializing in **building AI agents, scalable backend systems, and data-driven solutions**.  
+I work extensively with **FastAPI, Kafka, Redis, SQLAlchemy**, and develop **automation workflows and ML pipelines** for real-world applications.
 
 ---
 
@@ -87,12 +74,4 @@ Xenia is a Machine Learning Engineer at Sberbank, specializing in **AI-powered a
   <a href="https://t.me/yourname">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram"/>
   </a>
-</p>
-
----
-
-## Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
