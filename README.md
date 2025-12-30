@@ -1,7 +1,6 @@
-# Xenia — ML Engineer @ Sberbank
-
+<!-- Заголовок с анимацией -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=ML+Engineer+|+FastAPI+|+Python+|+Data+Engineering;Building+AI+Agents+and+Automation+Solutions;Kafka+|+Redis+|+SQLAlchemy+|+ETL+Pipelines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=ML+Engineer+@+Sberbank;Building+AI+Agents+and+Automation;FastAPI+|+Python+|+Kafka+|+Redis" />
 </p>
 
 <p align="center">
@@ -12,16 +11,20 @@
 
 ## Professional Overview
 
-Xenia is an experienced Machine Learning Engineer at Sberbank, specializing in building **AI-powered agents, automation workflows, and data-driven applications**. Her expertise spans backend development, data engineering, and designing scalable ML solutions for enterprise applications.
+Xenia is a Machine Learning Engineer at Sberbank, specializing in **AI-powered agents, backend systems, and data-driven solutions**. She designs scalable ML pipelines, develops automation workflows, and builds enterprise-grade AI solutions.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ4cY1TlSxVdo/giphy.gif" width="500" />
+</p>
 
 ---
 
 ## Core Competencies
 
-- **Machine Learning & AI:** Intelligent agents, RAG systems, predictive modeling, classification, and NLP pipelines  
-- **Backend & Automation:** FastAPI microservices, Kafka & Redis event-driven systems, workflow orchestration  
-- **Data Engineering:** PostgreSQL, SQLAlchemy, MongoDB, ETL pipelines, dashboards, and analytics solutions  
-- **Cloud & DevOps:** Docker, Kubernetes, AWS, GCP, scalable deployment  
+- **Machine Learning & AI**: Intelligent agents, RAG systems, predictive modeling, NLP pipelines  
+- **Backend & Automation**: FastAPI, Kafka, Redis, workflow orchestration, REST APIs  
+- **Data Engineering**: SQLAlchemy, PostgreSQL, MongoDB, ETL/ELT pipelines, dashboards  
+- **Cloud & DevOps**: Docker, Kubernetes, AWS, GCP, containerized deployments  
 
 ---
 
@@ -43,11 +46,15 @@ Xenia is an experienced Machine Learning Engineer at Sberbank, specializing in b
 
 ## Selected Projects & Deliverables
 
-- AI agents for task automation and recommendation systems  
-- Multi-agent workflows and document analysis pipelines  
+- AI agents for automation and recommendations  
+- Multi-agent workflows and document pipelines  
 - Real-time data processing and analytics dashboards  
-- ETL/ELT data pipelines for enterprise data systems  
-- RESTful API development and microservices architecture  
+- ETL/ELT data pipelines for enterprise systems  
+- RESTful API development, microservices architecture  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="500" />
+</p>
 
 ---
 
